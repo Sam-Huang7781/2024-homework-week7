@@ -1,0 +1,35 @@
+h1 {
+  font-size: 128px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.fs-1 {
+  font-size: 32px;
+}
+.fs-2 {
+  font-size: 24px;
+}
+.fs-3 {
+  font-size: 20px;
+}
+.fs-4 {
+  font-size: 16px;
+}
+.d-flex {
+  display: flex;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1296px;
+}
+.sp-btw {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}

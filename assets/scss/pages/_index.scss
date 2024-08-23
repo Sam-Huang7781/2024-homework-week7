@@ -1,0 +1,141 @@
+.navbar {
+  background-color: #000000;
+  color: #d1d1d1;
+  padding: 40px 0;
+}
+
+.hero {
+  p {
+    font-size: 64px;
+  }
+  .intro {
+    padding-left: 24px;
+    h1 {
+      color: #00ffa3;
+    }
+  }
+}
+
+.intro-contact {
+  background-color: #fff;
+  color: #1c1b1f;
+  margin-left: auto;
+  border-radius: 32px;
+  padding: 12px 24px;
+  width: fit-content;
+  .intro-contact-me {
+    margin-right: 4px;
+  }
+}
+
+.content {
+  padding: 160px;
+  background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true);
+  .title {
+    font-size: 64px;
+    margin-bottom: 36px;
+  }
+  .text {
+    width: 526px;
+    margin-bottom: 32px;
+  }
+}
+
+.img-wrap {
+  gap: 16px;
+}
+.left-column {
+  width: 526px;
+}
+.right-column {
+  gap: 24px;
+}
+.sparkle {
+  width: 196px;
+  margin-left: 24px;
+}
+
+.about{
+  padding: 160px 0;
+  background-color: #fff;
+  color: #000;
+}
+.about-list{
+  width: 636px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 24px;
+  li{
+    width: 48%;
+    border: 1px solid rgba(227, 227, 227, 1);
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    width: 306px;
+  }
+}
+.about-desc{
+  width: 526px;
+  .about-me{
+    font-size: 64px;
+  }
+}
+
+.contact{
+}
+.contact-me {
+  font-size: 64px;
+  p{
+    margin-right: 16px;
+  }
+}
+.social{
+  gap: 20px;
+}
+.pd-96{
+  padding: 96px 0;
+}
+.pd-160{
+  padding: 160px 0;
+}
+
+
+.project{
+  background: #ffffff;
+  color: #000;
+}
+.my-project{
+  width: 746px;
+  margin-left: auto;
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+.pic1{
+  margin-right: 24px;
+}
+
+.pic2{
+  margin-right: 24px;
+  margin-bottom: 28px;
+}
+.pic3{
+  margin-right: 24px;
+}
+.see-more-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+.see-more{
+  font-size: 16px;
+  padding: 12px 24px;
+  width: 185px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 32px;
+  img{
+    display: inline;
+  }
+}
+
